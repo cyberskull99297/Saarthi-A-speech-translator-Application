@@ -1,16 +1,2 @@
-# ai_asistant
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Saarthi-A-speech-translator-Application
+“सारथी : A Speech translator App” is developed using Flutter, a powerful and flexible framework for building high-quality mobile applications, which provides a range of tools and features for creating responsive and scalable user interfaces. By leveraging the capabilities of Flutter, Google Translate API, and Speech-to-Text API, the mobile application provides a valuable tool for anyone who needs to communicate across language barriers, whether for work, travel, or for general communication, while also promoting accessibility and inclusivity for people with disabilities in hearing.
